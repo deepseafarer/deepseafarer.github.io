@@ -32,9 +32,10 @@ There are many types of yield in DeFi. It is important to identify how protocols
 5. **Products and services**: Protocols sell financial products such as insurance or covered calls or puts. E.g. Nexus Mutual, Dopex
 
 #### Which DeFi protocols are live on Ethereum L2 platforms?
+
 | L2 platforms | Protocols |
-| ---------- | ---------- |
-| Polygon    | 1inch <br> Aave <br> Balancer <br> Curve <br> Sushiswap|
+| ----- | ----- |
+| Polygon    | 1inch <br> Aave <br> Balancer <br> Curve <br> Sushiswap |
 | Optimism   | 1inch <br> Synthethix <br> Uniswap |
 
 #### What are stablecoins?
