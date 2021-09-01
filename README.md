@@ -1,5 +1,6 @@
-# Crypto FAQ for plebs!
-[Twitter](https://twitter.com/deepseafarer) | [github](https://github.com/deepseafarer)
+# Crypto FAQ for plebs! :man_farmer:
+[twitter](https://twitter.com/deepseafarer) | [github](https://github.com/deepseafarer)
+
 Updated: 2 September 2021.
 
 #### Crypto educational resources!
@@ -14,6 +15,7 @@ Updated: 2 September 2021.
 Ethereum, Binance Smart Chain, Polygon, Terra, Solana, Avalanche, Fantom.
 
 #### What are the popular DApps on each L1 blockchain?
+
 | L1 blockchains | DApps |
 | ----- | ----- |
 | Binance Smart Chain | Pancakeswap <br> Venus <br> Alpaca Finance |
@@ -40,6 +42,7 @@ There are many types of yield in DeFi. It is important to identify how protocols
 5. **Products and services**: Protocols sell financial products such as insurance or covered calls or puts. E.g. Nexus Mutual, Dopex
 
 #### What popular DeFi DApps are live on Ethereum L2?
+
 | L2 rollups | DApps |
 | ----- | ----- |
 | Arbitrum   | Sushiswap |
