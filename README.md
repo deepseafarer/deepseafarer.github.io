@@ -1,7 +1,7 @@
-# Crypto FAQ for plebs! :man_farmer:
-[twitter](https://twitter.com/deepseafarer) | [github](https://github.com/deepseafarer)
+# :man_farmer: Crypto FAQ!
+Updated: 2 September 2021; [twitter](https://twitter.com/deepseafarer) | [github](https://github.com/deepseafarer)
 
-Updated: 2 September 2021.
+-----
 
 #### Crypto educational resources!
 - https://thedailyape.notion.site/
