@@ -1,19 +1,27 @@
 # Crypto FAQ for plebs!
-Updated: 21 August 2021. Please DM [@deepseafarer](https://twitter.com/deepseafarer) on Twitter if you have any questions!
+[Twitter](https://twitter.com/deepseafarer) | [github](https://github.com/deepseafarer)
+Updated: 2 September 2021.
 
-## Ethereum
+#### Crypto educational resources!
+- https://thedailyape.notion.site/
 
-#### What are the current L2 solutions that have been deployed?
-Polygon and Optimism. There are many L2 solutions currently being developed that may be launched in the near future. For further details please check out this wonderful [tweet](https://twitter.com/GSpasov/status/1426915044307132418) by George!
+#### Yield farming tools!
+- https://zapper.fi/invest
+- https://debank.com/
+- https://vfat.tools/
 
-#### What is the mempool?
-The mempool is a set of broadcasted transactions that have not been added into the blockchain. Miners decide which transactions to validate and include in the block, and often select transactions with higher fees.
+#### What are the popular L1 blockchains that have been launched?
+Ethereum, Binance Smart Chain, Polygon, Terra, Solana, Avalanche, Fantom.
 
-#### How do I transfer cryptocurrency to the Polygon L2?
-The easiest way is to first add the Polygon Mainnet on your Metamask wallet. Please do so by following the instructions [here](https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask). After doing so, use the [Polygon bridge](https://wallet.matic.network/bridge) to transfer your assets on the Ethereum blockchain over to the Polygon blockchain. Be careful when choosing any blockchain bridge to transfer your assets, as some bridges may be vulnerable to hacks or are malicious!
-
-#### What is wETH?
-wETH is short for wrapped ETH, and is different from the native token of the Ethereum blockchain, Ether (ETH). wETH is ERC20 compatible, which allows it to be handled by smart contracts. Many decentralized applications (dApps) use wETH in place of ETH, so care should be taken to note which token you are dealing with.
+#### What are the popular DApps on each L1 blockchain?
+| L1 blockchains | DApps |
+| ----- | ----- |
+| Binance Smart Chain | Pancakeswap <br> Venus <br> Alpaca Finance |
+| Polygon | Quickswap <br> Sushiswap <br> Aave <br> Curve <br> Balancer |
+| Terra | TBC |
+| Solana | Serum <br> Raydium <br> Mango <br> Orca |
+| Avalanche | Pangolin <br> Trader Joe <br> Aave |
+| Fantom | Spooky |
 
 ## DeFi
 
@@ -31,15 +39,30 @@ There are many types of yield in DeFi. It is important to identify how protocols
 4. **Protocol-issued incentives**: An excellent example would be liquidity mining, where protocols reward early liquidity providers (LPs) with native tokens. E.g. Compound
 5. **Products and services**: Protocols sell financial products such as insurance or covered calls or puts. E.g. Nexus Mutual, Dopex
 
-#### Which DeFi protocols are live on Ethereum L2 platforms?
-
-| L2 platforms | Protocols |
+#### What popular DeFi DApps are live on Ethereum L2?
+| L2 rollups | DApps |
 | ----- | ----- |
-| Polygon    | 1inch <br> Aave <br> Balancer <br> Curve <br> Sushiswap |
+| Arbitrum   | Sushiswap |
 | Optimism   | 1inch <br> Synthethix <br> Uniswap |
 
 #### What are stablecoins?
 Stablecoins are cryptocurrencies that are pegged to the value of fiat currencies such as the US dollar. Examples of stablecoins are Tether (USDT), USD Coin (USDC), DAI and Binance USD (BUSD). Stablecoins must fulfil token standards of their respective L1 blockchain. For examples, stablecoins on the Ethereum blockchain are ERC-20 tokens. The same stablecoins are not transferrable across different L1 blockchains (i.e. cannot send USDC from an Ethereum wallet to a Solana wallet).
+
+## Ethereum
+
+#### What are the current L2 solutions that have been deployed?
+Optimism and Arbitrum are two of the L2 solutions that have been launched.
+- For a complete list check out: https://l2beat.com/
+- For details on L2 rollups check out this wonderful [tweet](https://twitter.com/GSpasov/status/1426915044307132418) by George!
+
+#### What is the mempool?
+The mempool is a set of broadcasted transactions that have not been added into the blockchain. Miners decide which transactions to validate and include in the block, and often select transactions with higher fees.
+
+#### How do I transfer cryptocurrency to the Polygon sidechain?
+The easiest way is to first add the Polygon Mainnet on your Metamask wallet. Please do so by following the instructions [here](https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask). After doing so, use the [Polygon bridge](https://wallet.matic.network/bridge) to transfer your assets on the Ethereum blockchain over to the Polygon blockchain. Be careful when choosing any blockchain bridge to transfer your assets, as some bridges may be vulnerable to hacks or are malicious!
+
+#### What is wETH?
+wETH is short for wrapped ETH, and is different from the native token of the Ethereum blockchain, Ether (ETH). wETH is ERC20 compatible, which allows it to be handled by smart contracts. Many decentralized applications (dApps) use wETH in place of ETH, so care should be taken to note which token you are dealing with.
 
 <!-- #### What is impermanent loss?
 
