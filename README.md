@@ -1,7 +1,4 @@
-# :man_farmer: Crypto FAQ!
-Updated: 2 September 2021; [twitter](https://twitter.com/deepseafarer) | [github](https://github.com/deepseafarer)
-
------
+# Crypto FAQ!
 
 #### Crypto educational resources!
 - https://thedailyape.notion.site/
@@ -66,6 +63,12 @@ The easiest way is to first add the Polygon Mainnet on your Metamask wallet. Ple
 
 #### What is wETH?
 wETH is short for wrapped ETH, and is different from the native token of the Ethereum blockchain, Ether (ETH). wETH is ERC20 compatible, which allows it to be handled by smart contracts. Many decentralized applications (dApps) use wETH in place of ETH, so care should be taken to note which token you are dealing with.
+
+-----
+
+Updated: 2 September 2021
+
+[twitter](https://twitter.com/deepseafarer) | [github](https://github.com/deepseafarer)
 
 <!-- #### What is impermanent loss?
 
