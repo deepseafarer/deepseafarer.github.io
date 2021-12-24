@@ -7,7 +7,7 @@ layout: default
 # Yield farming
 
 #### What is yield farming?
-Yield farming is a catch-all term referring to the practise of earning yields on cryptocurrency a user holds. It is similar to receiving interest on bank deposits. For cryptocurrency, yield can be received in terms of the cryptocurrency provided, or in terms of the protocol's native token. In particular, the practise of receiving a protocol's native token for providing liquidity to the protocol is known as liquidity mining.
+Yield farming is a catch-all term referring to the practice of earning yields on cryptocurrency a user holds. It is similar to receiving interest on bank deposits. For cryptocurrency, yield can be received in terms of the cryptocurrency provided, or in terms of the protocol's native token. In particular, the practise of receiving a protocol's native token for providing liquidity to the protocol is known as liquidity mining.
 
 #### What is liquidity mining?
 Liquidity mining refers to the issuance of native tokens by protocols to liquidity providers (LPs). For example, LPs that deposit ETH-USDC to liquidity pools on Sushiswap are rewarded with the native token $SUSHI. Protocols typically issue tokens to incentivize people to provide liquidity to their liquidity pools. Issuance of tokens is commonly very high in the beginning as protocols seek to bootstrap liquity in early pools (i.e. incentivise people to start depositing cryptocurrency into a pool).
@@ -21,10 +21,7 @@ There are many types of yield in DeFi. It is important to identify how protocols
 5. **Products and services**: Protocols sell financial products such as insurance or covered calls or puts. E.g. Nexus Mutual, Dopex
 
 #### Yield farming tools!
-- <https://debank.com/> - track all your coins and farms
-- <https://vfat.tools/> - track all farms available and their APRs: 
-- <https://defillama.com/chains> - track TVL in various blockchains and protocols 
+- <https://debank.com/> - Track all your coins and farms.
+- <https://vfat.tools/> - Track all farms (liquidity pools) available and their current APRs. Vfat allows you to add or remove liquidity from your liquidity pools, useful when the front end has been removed by protocol devs! 
+- <https://defillama.com/chains> - Track TVL in various blockchains and protocols 
 
-#### What is impermanent loss?
-
-#### What is an automated market maker?

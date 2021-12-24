@@ -21,10 +21,14 @@
         {% endif %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <br>
-        <h3><a href="{{ site.url }}/index.html">DeFi</a></h3>
-        <h3><a href="{{ site.url }}/farming.html">Yield farming</a></h3>
-        <h3><a href="{{ site.url }}/blockchain.html">Blockchain</a></h3>
-        <h3><a href="{{ site.url }}/learning.html">Learning resources</a></h3>
+        <center><h2><a href="{{ site.url }}/index.html">[ HOME ]</a></h2></center>
+        <br>
+        {% if site.posts.size != 0 %}
+          <h3>Blog posts</h3>
+          {% for post in site.posts %}
+            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          {% endfor %}
+        {% endif %}
       </header>
       
       <section>
@@ -33,7 +37,7 @@
       
       <footer>
         <p>
-          twitter: <a href="https://twitter.com/{{ site.twitter_username }}">@deepseafarer</a><br>
+          twitter: <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a><br>
           github: <a href="{{ site.github.owner_url }}">deepseafarer</a>
         </p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
