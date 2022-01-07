@@ -6,17 +6,16 @@ layout: default
 - [Blockchain](blockchain.md)
 - [DeFi](defi.md)
 - [Yield farming](farming.md)
+- Glossary
 
 ---
 
-# Musings
+# DeFi
+- [Token analysis](token_analysis.md)
 
-## Layer 1s
+# Layer 1s
 - [Layer 1s](l1.md)
 - [Terra](terra.md)
-
-## DeFi
-- [DeFi protocols](dapps.md)
 
 ---
 
