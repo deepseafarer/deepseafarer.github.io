@@ -13,7 +13,8 @@ tags: vim tutorial
 | `u` | Undo |
 | `Ctrl-r` | Redo |
 | `Ctrl-o` | Switch from insert mode to normal mode for one command |
-  
+| `Shift-$` | Jump to end of line |
+| `Shift-^` | Jump to start of line |
 
 ## Buffers
 
@@ -49,3 +50,12 @@ tags: vim tutorial
 | `Ctrl-w c` | Close window but keep buffer |
 | `Ctrl-w o` | Close all other windows |
 | `Ctrl-w right arrow` | Move cursor to window on the right |
+
+## Autocomplete
+
+| `Ctrl-p` | Prompt autocomplete / scroll up |
+| `Ctrl-n` | Scroll down |
+| `Ctrl-y` | Accept current choice |
+| `Ctrl-e` | Exit menu |
+
+
