@@ -11,9 +11,11 @@ layout: default
 ---
 
 # DeFi
+
 - [Token analysis](token_analysis.md)
 
 # Layer 1s
+
 - [Layer 1s](l1.md)
 - [Terra](terra.md)
 
@@ -22,4 +24,4 @@ layout: default
 # Resources
 
 - [Learning resources](resources.md)
-- [Tutorials](tutorials.md)
+- [On-boarding](onboarding.md)

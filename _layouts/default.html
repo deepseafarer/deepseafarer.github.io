@@ -20,13 +20,14 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <br>
-        <center><h2><a href="{{ site.url }}/index.html">[ HOME ]</a></h2></center>
-        <br>
+        <hr><br>
+        
+        <a href="{{ site.url }}/index.html">Home</a><br><br>
+        
         {% if site.posts.size != 0 %}
-          <h3>Blog posts</h3>
+          <u>Posts</u><br>
           {% for post in site.posts %}
-            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+            <a href="{{ post.url }}">{{ post.title }}</a>
           {% endfor %}
         {% endif %}
       </header>
