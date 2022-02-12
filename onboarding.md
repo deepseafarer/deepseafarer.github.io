@@ -40,10 +40,11 @@ For most EVM-compatible blockchains, the first step is to add the blockchain net
 - [Tron Bridge](https://bridge.tronpad.network/): BSC -> Tron
 - [Harmony Bridge](https://bridge.harmony.one/busd): BSC/Ethereum -> Harmony
 - [Avalanche Bridge](https://bridge.avax.network/): Ethereum -> Avalanche
-- [Arbitrum Bridge](https://bridge.arbitrum.io/): Ethereum -> Avalanche
+- [Arbitrum Bridge](https://bridge.arbitrum.io/): Ethereum -> Arbitrum
 - [Polygon Bridge](https://wallet.matic.network/bridge): Ethereum -> Polygon
 
 ### Bridging protocols
+- [Synapse](https://synapseprotocol.com/)
+- [Multichain](https://app.multichain.org/#/router)
+- [Hop protocol](https://app.hop.exchange/#/send?token=USDC): Ethereum -> Polygon/Gnosis/Optimism/Arbitrum
 - Spookyswap: BSC -> Fantom
-- Synapse
-

@@ -4,6 +4,7 @@ title:  "Vim Cheatsheet"
 author: 0xDipzy
 tags: vim tutorial
 ---
+
 | --- | --- |
 | `:e` | Open and edit file |
 | `dd` | Delete/cut current line |
@@ -23,14 +24,12 @@ tags: vim tutorial
 | `:bd` | Kill buffer |
 | `[n] Ctrl-^` | Jump to buffer |
 
-
 ## Delete
 
 | --- | --- |
 | `d` | Delete/cut |
-| `daw` | Delete word at cursor |
+| `diw` | Delete word at cursor |
 | `Ctrl-u` | Delete from cursor to start of line |
-
 
 ## Search / Substitute
 
@@ -40,6 +39,14 @@ tags: vim tutorial
 | `:s/foo/bar/g` | Substitute all occurrences of "foo" with "bar" in current line |
 | `:%s/foo/bar/g` | Substitute all occurrences of "foo" with "bar" in all lines|
 | `:%s/foo/bar/gc` | Substitute all occurrences of "foo" with "bar" in current line with confirmation |
+
+## Scrolling
+
+| --- | --- |
+| `Ctrl-u` | Scroll up half a screen |
+| `Ctrl-d` | Scroll down half a screen |
+| `Ctrl-f` | Scroll down one screen length |
+| `Ctrl-b` | Scroll up one screen length |
 
 
 ## Windows
@@ -57,5 +64,4 @@ tags: vim tutorial
 | `Ctrl-n` | Scroll down |
 | `Ctrl-y` | Accept current choice |
 | `Ctrl-e` | Exit menu |
-
 

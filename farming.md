@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+
 # Yield farming
 
 #### What is yield farming?
@@ -24,4 +22,3 @@ There are many types of yield in DeFi. It is important to identify how protocols
 - <https://debank.com/> - Track all your coins and farms.
 - <https://vfat.tools/> - Track all farms (liquidity pools) available and their current APRs. Vfat allows you to add or remove liquidity from your liquidity pools, useful when the front end has been removed by protocol devs! 
 - <https://defillama.com/chains> - Track TVL in various blockchains and protocols 
-

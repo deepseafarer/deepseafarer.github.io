@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Learning resources
 
 ## Podcasts

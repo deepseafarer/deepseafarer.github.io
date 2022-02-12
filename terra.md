@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Terra
+# Terra - DeFi
 
 ## Mirror
 [Mirror](https://mirrorprotocol.app/#/trade) is a DApp that enables the creation and trading of synthetic assets that track the price of real-world assets such as stocks. These synthetic assets are termed Mirrored Assets (mAssets), with examples being mAAPL, mGOOGL and mAMZN. International users that have trouble owning US stocks can now gain exposure to the price movements through these mAssets.
