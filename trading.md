@@ -33,5 +33,8 @@ Everyone has their own approach to bet sizing, depending on their trading goals 
 - [Tweet](https://twitter.com/mrjasonchoi/status/1483482302131089412) by @mrjasonchoi
 
 ## Golden rules
+- Be sure of thesis for trade. Identify the edge that you are trading on (e.g. information asymmetry).
+- Consider EV and risk/reward ratio of trade
+- Be mindful of market stage and macro conditions
 - Always be dumping. Even if you have a long-term thesis on a token, sell partially into exuberance in order to buy back when the hype has subsided. If not, always take profits in majors
 - Always be early. "The exceptional investor invests in heretical themes, and sells once those themes become orthodox. The average investor invests in orthodox themes, and sells once those themes become irrelevant." *- Arthur Hayes*

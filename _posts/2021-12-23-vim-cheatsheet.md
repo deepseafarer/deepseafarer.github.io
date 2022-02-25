@@ -7,7 +7,6 @@ tags: vim tutorial
 
 | --- | --- |
 | `:e` | Open and edit file |
-| `dd` | Delete/cut current line |
 | `[n] gg` | Go to line |
 | `G` | Go to last line |
 | `[n] o` | Open `n` new lines. `O` opens new line before current line |
@@ -24,12 +23,18 @@ tags: vim tutorial
 | `:bd` | Kill buffer |
 | `[n] Ctrl-^` | Jump to buffer |
 
-## Delete
+## Cut / Copy / Paste
 
 | --- | --- |
 | `d` | Delete/cut |
+| `dd` | Delete current line |
 | `diw` | Delete word at cursor |
 | `Ctrl-u` | Delete from cursor to start of line |
+| `y` | Yank/copy |
+| `yy` | Yank current line |
+| `p` | Paste |
+| `"[n]p` | Paste from register n |
+| `:registers` | View registers |
 
 ## Search / Substitute
 
@@ -47,7 +52,6 @@ tags: vim tutorial
 | `Ctrl-d` | Scroll down half a screen |
 | `Ctrl-f` | Scroll down one screen length |
 | `Ctrl-b` | Scroll up one screen length |
-
 
 ## Windows
 

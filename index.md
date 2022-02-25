@@ -28,7 +28,8 @@ When evaluating tokens it is often useful to ask these questions:
 - Good project? Use cases and competitors?
 - What are its revenue streams?
 - Good team? Any doxxed members?
-- Public sentiment?
+- Public sentiment? Strong cult-like following?
+- What are the narratives behind owning this token?
 - What are the buy and sell pressures of the token?
 - Is the distribution of the token concentrated?
 - How does the token accrue value?
