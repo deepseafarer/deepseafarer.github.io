@@ -15,6 +15,8 @@ tags: vim tutorial
 | `Ctrl-o` | Switch from insert mode to normal mode for one command |
 | `Shift-$` | Jump to end of line |
 | `Shift-^` | Jump to start of line |
+| `:set nonu` | Stop showing line numbers |
+| `:set nu` | Show line numbers |
 
 ## Buffers
 
@@ -30,6 +32,7 @@ tags: vim tutorial
 | `dd` | Delete current line |
 | `diw` | Delete word at cursor |
 | `Ctrl-u` | Delete from cursor to start of line |
+| `c` | Delete and enter insert mode |
 | `y` | Yank/copy |
 | `yy` | Yank current line |
 | `p` | Paste |
@@ -68,4 +71,3 @@ tags: vim tutorial
 | `Ctrl-n` | Scroll down |
 | `Ctrl-y` | Accept current choice |
 | `Ctrl-e` | Exit menu |
-

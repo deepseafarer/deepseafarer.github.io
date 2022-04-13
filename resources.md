@@ -25,8 +25,3 @@ layout: default
 
 ## Websites / Blogs
 - [thedailyape](https://thedailyape.notion.site/thedailyape/Directory-c96c0b6727c0433a962e897ef43efb7e) - Compilation of great reading materials on crypto by the OG [@Darrenlautf](https://twitter.com/Darrenlautf)! Subscribe to his telegram channel for free daily alfafa!
-
-## Twitter Lists
-- [Alfafa Farmers](https://twitter.com/i/lists/1445029734144897025) - Crypto gigabrains and VC firms forecasting long-term trends.
-- [Movers n' Shakers](https://twitter.com/i/lists/1464200471686516737) - Trader whales and crypto funds.
-- [Shitcoin Chads](https://twitter.com/i/lists/1464200471686516737) - Experts on finding the next low-cap gem. Providers of fantastic analysis on projects.
